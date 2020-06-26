@@ -20,7 +20,9 @@ const Menu = ({ history }) => {
   return (
     <MDBNavbar color='light green' dark expand='md'>
       <MDBNavbarBrand>
-        <strong className='white-text'>TTS</strong>
+        <MDBNavLink to='/'>
+          <strong className='white-text'>TTS</strong>
+        </MDBNavLink>
       </MDBNavbarBrand>
       <MDBNavbarToggler onClick={toggleCollapse} />
       <MDBCollapse id='navbarCollapse3' isOpen={open} navbar>
