@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd3a1b6d92d1235a436b5510512f304e",
+    "revision": "12c5e6e92e4570343b6ecc4fb1d20841",
     "url": "/tts.alumni/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tts.alumni/static/js/2.71e82ecd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e441e24c012647af35d",
-    "url": "/tts.alumni/static/js/main.5f9cae13.chunk.js"
+    "revision": "ec34d2cf000e22b228c5",
+    "url": "/tts.alumni/static/js/main.9ad2d126.chunk.js"
   },
   {
     "revision": "7d1ed5542ff9c8175cf9",
